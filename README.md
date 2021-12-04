@@ -1,1 +1,1 @@
-# project-2-flight-booking-platform
+# Project-2-flight-booking-platform
